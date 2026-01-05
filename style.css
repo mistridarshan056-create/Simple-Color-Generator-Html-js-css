@@ -1,0 +1,12 @@
+body {
+    font-size: 15pt;
+    background-color: #ffffff;
+}
+#colorgen {
+    background-color: #000000;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+}
